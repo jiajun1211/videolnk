@@ -1,0 +1,5 @@
+git+https://github.com/pinax/pinax-theme-bootstrap.git
+git+https://github.com/pinax/pinax-blog.git
+git+https://github.com/pinax/django-user-accounts.git
+git+https://github.com/pinax/pinax-theme-bootstrap-account.git
+git+https://github.com/pinax/django-forms-bootstrap.git
